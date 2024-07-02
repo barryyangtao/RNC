@@ -2,6 +2,7 @@
 A Simple Algorithm for Converting Random Number Generator Outputs to Universal Distributions to Aid Teaching and Research in Modern Physical Chemistry
 
 - Contributors: Barry Y. Li, Tim Duong, Daniel Neuhauser, Anastassia N. Alexandrova, and Justin R. Caram
+  
   (Department of Chemistry and Biochemistry, UCLA)
 
 Abstract
